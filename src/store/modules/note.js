@@ -22,13 +22,7 @@ export const removeNote = createAction(REMOVE_NOTE, (id) => id);
 const initialState = {
   inputTitle: "",
   inputContent: "",
-  noteList: [
-    {
-      id: 0,
-      title: "제발 됐으면",
-      content: "제발 되주세요",
-    },
-  ],
+  noteList: [],
 };
 
 export default handleActions(
