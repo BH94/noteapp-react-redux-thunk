@@ -1,6 +1,6 @@
 # 🗄 NoteApp
 
-![Application](https://github.com/BH94/noteapp-react-redux-thunk/blob/master/readme-img/Application.png?raw=true)
+![Application](https://github.com/BH94/noteapp-react-redux-thunk/blob/master/readme-img/application.png?raw=true)
 
 ## ✍ Blog
 
