@@ -4,7 +4,7 @@
 
 ## ✍ Blog
 
-### [리덕스 미들웨어는 무엇인가? (2) redux-thunk](https://velog.io/@youthfulhps/%EB%A6%AC%EB%8D%95%EC%8A%A4-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-2)
+### [🌤 Redux-thunk를 사용해 간단한 날씨 앱 만들기](https://1day1commit.tistory.com/141?category=908239)
 
 ## 💡 Skills
 
